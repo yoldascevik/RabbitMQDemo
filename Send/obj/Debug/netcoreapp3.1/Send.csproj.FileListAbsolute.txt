@@ -1,0 +1,13 @@
+D:\Projects\RabbitMQDemo\Send\bin\Debug\netcoreapp3.1\Send.exe
+D:\Projects\RabbitMQDemo\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+D:\Projects\RabbitMQDemo\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+D:\Projects\RabbitMQDemo\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+D:\Projects\RabbitMQDemo\Send\bin\Debug\netcoreapp3.1\Send.dll
+D:\Projects\RabbitMQDemo\Send\bin\Debug\netcoreapp3.1\Send.pdb
+D:\Projects\RabbitMQDemo\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Projects\RabbitMQDemo\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+D:\Projects\RabbitMQDemo\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+D:\Projects\RabbitMQDemo\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+D:\Projects\RabbitMQDemo\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+D:\Projects\RabbitMQDemo\Send\obj\Debug\netcoreapp3.1\Send.dll
+D:\Projects\RabbitMQDemo\Send\obj\Debug\netcoreapp3.1\Send.pdb
